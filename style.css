@@ -118,7 +118,7 @@
 }
 
 .watch {
-    background-image: url('/images/watch.png');
+    background-image: url("/images/watch.png");
     background-repeat: no-repeat;
     width: 1240px;
     height: 300px;
